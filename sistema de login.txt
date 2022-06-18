@@ -1,1 +1,7 @@
 codigo de login
+
+digite sua senha
+
+digite seu email
+
+digite nome da sua mãe
